@@ -1,0 +1,18 @@
+Install Termux from the Play Store. If you are on a PC, use Kali Linux or any other Linux distribution available in Windows.
+
+Run the following commands one by one:
+
+pkg install php
+pkg install git
+apt update && apt upgrade -y
+Clone the repository:
+git clone https://github.com/JoelEsosa/notpixel-adsv2.git
+Navigate to the repository:
+cd notpixel-adsv2
+Run the main script:
+php main.php
+Choose the option to save accounts.
+
+Paste your referral link and press Enter. If you have multiple accounts, repeat this process to save all your referral links.
+
+Select option 3 to start earning.
