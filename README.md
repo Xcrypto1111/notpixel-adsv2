@@ -13,7 +13,7 @@ apt update && apt upgrade -y
 ```
 3. Clone the repository:
 ```
-git clone https://github.com/Not-D4rkCipherX/notpixel-adsv2.git
+git clone https://github.com/Xcrypto1111/notpixel-adsv2.git
 ```
 4. Navigate to the repository:
 ```
